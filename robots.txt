@@ -1,0 +1,6 @@
+```txt
+User-agent: *
+Allow: /
+
+Sitemap: https://lsy7618.github.io/sitemap.xml
+```
