@@ -20,9 +20,6 @@ main:
 categories:
   - title: "Python"
     url: /categories/categories1/
-    children:
-      - title: "파이썬(Python)이란?"
-        url: /categories/Python1/
   
   - title: "SQL"
 
