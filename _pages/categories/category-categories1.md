@@ -1,5 +1,5 @@
 ---
-title: "Python?"
+title: "Python"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
