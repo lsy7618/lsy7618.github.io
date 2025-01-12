@@ -19,10 +19,24 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Python"
-    url: /categories/categories1/
+    children:
+      - title: "파이썬(Python)이란?"
+        url: /categories/Python/
+      - title: "Categories2"
+        url: /categories/categories2/
+      - title: "Categories3"
+        url: /categories/categories3/
+      - title: "Categories4"
+        url: /categories/categories4/
+
   - title: "SQL"
-    url: /categories/categories2/
+    children:
+      - title: "Categories5"
+        url: /categories/categories5/
+      - title: "Categories6"
+        url: /categories/categories6/
+
   - title: "빅데이터 분석기사"
-    url: /categories/categories3/
-  - title: "django"
-    url: /categories/categories4/
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
