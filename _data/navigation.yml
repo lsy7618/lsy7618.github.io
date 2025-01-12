@@ -21,7 +21,7 @@ categories:
   - title: "Python"
     children:
       - title: "파이썬(Python)이란?"
-        url: /categories/Python/
+        url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
       - title: "Categories3"
@@ -36,7 +36,7 @@ categories:
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "빅데이터 분석기사"
+  - title: "빅데이터 분석 기사"
     children:
       - title: "Categories7"
         url: /categories/categories7/
